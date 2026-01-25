@@ -1,8 +1,9 @@
 # 📊 Sales Analytics & Performance Dashboard
 ### Analyzing $19k+ in Profit Trends (2020–2023)
 
-![Dashboard Preview](path/to/your/screenshot.png)
-*(Note: Upload a screenshot of your Excel dashboard or main charts here and replace the link above)*
+https://public.tableau.com/shared/MYJ6MPHSW?:display_count=n&:origin=viz_share_link
+<img width="1920" height="932" alt="image" src="https://github.com/user-attachments/assets/3d1ae288-9623-49ac-b18f-f7f749578de7" />
+
 
 ## 📄 Overview
 This project analyzes transactional sales data from a fictional retail Superstore to identify drivers of profitability and sales performance. The dataset spans **January 2020 to October 2023**, covering consumer, corporate, and home office segments.
